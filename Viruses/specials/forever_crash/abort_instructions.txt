@@ -1,0 +1,1 @@
+run crash_abort.vbs to remove shutdown then go to startup_abort.txt and go to the path and remove the virus from there.
